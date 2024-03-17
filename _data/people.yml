@@ -54,7 +54,7 @@
 - name: Dr. Yejin Kim
   role: co-I
   university: UTHealth
-  image: /assets/img/headshot/yejinkim.jpg
+  image: /assets/img/headshot/yejinkim.jpeg
   email: yejin.kim@uth.tmc.edu
 - name: Dr. Luyao Chen
   role: Scientific Programmer
@@ -69,5 +69,5 @@
 - name: Dr. Lishan Yu
   role: co-I
   university: UTHealth
-  image: /assets/img/headshot/lishanyu.jpg
+  image: /assets/img/headshot/lishanyu.jpeg
   email: lishan.yu@uth.tmc.edu
