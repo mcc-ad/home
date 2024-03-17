@@ -39,10 +39,15 @@
 - name: Dr. Jianna Feng
   role: co-I
   university: Mayo
-  image: /assets/img/headshot/jingnafeng.jpg
+  image: /assets/img/headshot/jingnafeng.jpeg
   email: jianna.feng@mayo.edu
 - name: Angelia Watson
   role: Program Manager
   university: UTHealth
   image: /assets/img/headshot/angiewatson.jpg
   email: angelia.h.watson@uth.tmc.edu
+- name: Dr. Paul Schulz
+  role: co-I
+  university: UTHealth
+  image: /assets/img/headshot/paulschulz.jpg
+  email: paul.e.schulz@uth.tmc.edu
