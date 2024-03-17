@@ -14,7 +14,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: An end-to-end informatics framework to study Multiple Chronic Conditions (MCC)’s impact on Alzheimer’s disease using harmonized electronic health records
+title: An end-to-end informatics framework to study Multiple Chronic Condition's impact on AD using harmonized EHRs
 # the main title
 
 tagline: NIH R01AG083039 # it will display as the sub-title
@@ -75,7 +75,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://mcc_ad.github.io/mcc_ad"
+img_cdn: "https://mcc_ad.github.io/mcc_ad/"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/favicons/avatar3.png"
