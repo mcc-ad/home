@@ -32,7 +32,7 @@
   image: /assets/img/headshot/kaizhang.jpeg
   email: kai.zhang.1@uth.tmc.edu
 - name: Dr. Kaif Dauwa
-  role: Scientific Programmer
+  role: Graduate Scientific Programmer
   university: UTHealth
   image: /assets/img/headshot/kaifdauwa.jpeg
   email: kaif.dauwa@uth.tmc.edu
@@ -59,7 +59,7 @@
 - name: Dr. Luyao Chen
   role: Scientific Programmer
   university: UTHealth
-  image: /assets/img/headshot/placeholder.jpg
+  image: /assets/img/headshot/luyaochen.jpg
   email: TBN
 - name: Dr. Fang Li
   role: co-I
