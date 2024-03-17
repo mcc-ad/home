@@ -14,7 +14,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: An end-to-end informatics framework to study Multiple Chronic Condition's impact on AD using harmonized EHRs
+title: An end-to-end informatics framework to study MCC's impact on AD using harmonized EHRs
 # the main title
 
 tagline: NIH R01AG083039 # it will display as the sub-title
