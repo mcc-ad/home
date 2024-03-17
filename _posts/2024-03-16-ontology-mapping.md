@@ -1,5 +1,5 @@
 ---
-title: Large Language Model based Named Entity Recognition
+title: Mapping of multiple chronic conditions to SNOMED
 author: xj
 date: 2024-03-16 12:00:00 +0600
 categories: [ontology]
