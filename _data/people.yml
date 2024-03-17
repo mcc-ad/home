@@ -51,3 +51,23 @@
   university: UTHealth
   image: /assets/img/headshot/paulschulz.jpeg
   email: paul.e.schulz@uth.tmc.edu
+- name: Dr. Yejin Kim
+  role: co-I
+  university: UTHealth
+  image: /assets/img/headshot/yejinkim.jpg
+  email: yejin.kim@uth.tmc.edu
+- name: Dr. Luyao Chen
+  role: Scientific Programmer
+  university: UTHealth
+  image: /assets/img/headshot/placeholder.jpg
+  email: TBN
+- name: Dr. Fang Li
+  role: co-I
+  university: Mayo
+  image: /assets/img/headshot/placeholder.jpg
+  email: fang.li@mayo.edu
+- name: Dr. Lishan Yu
+  role: co-I
+  university: UTHealth
+  image: /assets/img/headshot/lishanyu.jpg
+  email: lishan.yu@uth.tmc.edu
