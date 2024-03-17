@@ -1,0 +1,23 @@
+
+
+{
+  "name": "AIM-AHEAD DICB Data Governance",
+  "short_name": "AIM-AHEAD DICB Data Governance",
+  "description": "Collaborative project between Tuskegee University and UTHSC at Houston on AIM-AHEAD DICB initiative, focusing on data governance.",
+  "icons": [
+    {
+      "src": "/dicb_uttu/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/dicb_uttu/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/dicb_uttu/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+

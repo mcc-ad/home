@@ -1,0 +1,39 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+sille_bille:
+  name: Dinesh Prasanth Moluguwan Krishnamoorthy
+  twitter: dinesh_MKD
+  url: https://github.com/SilleBille/
+
+xj:
+  name: Xiaoqian Jiang
+  twitter: 
+  url: https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm
+
+
+# dv:
+#   name: Deepthi Viswaroopan
+#   twitter: 
+#   url: https://scholar.google.com/citations?user=WBKiJ_UAAAAJ&hl=en
+
+# ss:
+#   name: Stephen O. Sodeke
+#   twitter: 
+#   url: https://connect.rtrn.net/profiles/display/93458
+
+
+# cn:
+#   name: Chitra Nayak
+#   twitter: 
+#   url: https://www.tuskegee.edu/Content/Uploads/Tuskegee/files/CAS/NayakTU_Physics_bio.pdf

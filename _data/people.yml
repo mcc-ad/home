@@ -1,0 +1,28 @@
+# - name: Dr. Cheryl Brown
+#   title: Associate Professor
+#   university: University of North Carolina at Charlotte
+#   image: /assets/img/people/CB.jpeg
+#   link: https://pages.charlotte.edu/cheryl-brown/
+# - name: Dr. Felesia Stukes
+#   title: Assistant Professor
+#   university: Johnson C. Smith University
+#   image: /assets/img/people/FS.jpeg
+#   link: https://blackcomputeher.org/felesia-stukes/
+# # ... more people
+
+
+- name: Dr. Erman Ayday
+  role: Contact PI
+  university: Case Western Reserved University
+  image: /assets/img/headshot/erman.jpg
+  email: exa208@case.edu
+- name: Dr. Xiaoqian Jiang
+  role: MPI
+  university: UTHealth
+  image: /assets/img/headshot/Xiaoqian.jpg
+  email: xiaoqian.jiang@uth.tmc.edu
+- name: Dr. Jaideep Vaidya
+  role: MPI
+  university: Rutgers University
+  image: /assets/img/headshot/jaideep.jpg
+  email: jsvaidya@business.rutgers.edu
