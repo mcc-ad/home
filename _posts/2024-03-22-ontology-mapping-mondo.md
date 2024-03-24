@@ -1,7 +1,7 @@
 ---
 title: Mapping of multiple chronic conditions to MONDO
 author: xj
-date: 2024-03-16 12:00:00 +0600
+date: 2024-03-22 12:00:00 +0600
 categories: [ontology]
 tags: [SNOMED, mapping, OMOP]
 ---
