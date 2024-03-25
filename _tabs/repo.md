@@ -6,7 +6,11 @@ order: 2
 ---
 
 
-To be added
+- [mcc-ad / ehr_ontology_mapping](https://github.com/mcc-ad/ehr_ontology_mapping) - A repository dedicated to mapping electronic health record (EHR) data to standardized ontologies. This process facilitates the interoperability of healthcare data, enabling more effective data analysis and research.
+
+- [mcc-ad / mcodegpt](https://pypi.org/project/mcodegpt/) - This Python package is designed for ontology extraction from clinical notes, utilizing Knowledge Bases and advanced large language models (LLMs) such as GPT-4. mCodeGPT employs instructional prompts within LLMs to enhance named entity recognition processes.
+
+
 
 <!-- 
 - [open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
