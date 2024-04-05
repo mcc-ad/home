@@ -20,7 +20,7 @@
   role: MPI
   university: Mayo Clinics
   image: /assets/img/headshot/cuitao.jpeg
-  email: cui.tao@mayo.edu
+  email: tao.cui@mayo.edu
 - name: Dr. Jiang Bian
   role: MPI
   university: University of Florida
@@ -36,7 +36,7 @@
   university: UTHealth
   image: /assets/img/headshot/kaifdauwa.jpeg
   email: kaif.dauwa@uth.tmc.edu
-- name: Dr. Jianna Feng
+- name: Dr. Jingna Feng
   role: co-I
   university: Mayo Clinics
   image: /assets/img/headshot/jingnafeng.jpeg
@@ -65,7 +65,7 @@
   role: co-I
   university: Mayo Clinics
   image: /assets/img/headshot/fangli.jpeg
-  email: fang.li@mayo.edu
+  email: li.fang@mayo.edu
 - name: Dr. Lishan Yu
   role: co-I
   university: UTHealth
