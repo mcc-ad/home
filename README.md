@@ -1,4 +1,5 @@
 <div align="center">
+
 # An end-to-end informatics framework to study Multiple Chronic Conditions (MCC)’s impact on Alzheimer’s disease using harmonized electronic health records
 
 ## Project Overview
