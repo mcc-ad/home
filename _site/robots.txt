@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: http://localhost:4000/dicb_uttu/sitemap.xml
+Sitemap: http://localhost:4000/home/sitemap.xml

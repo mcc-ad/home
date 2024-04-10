@@ -1,42 +1,42 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/dicb_uttu/</id>
-  <title>AIM-AHEAD DICB Data Governance</title>
-  <subtitle>Collaborative project between Tuskegee University and UTHSC at Houston on AIM-AHEAD DICB initiative, focusing on data governance.</subtitle>
-  <updated>2024-01-08T16:08:08-06:00</updated>
+  <id>http://localhost:4000/home/</id>
+  <title>An end-to-end informatics framework to study MCC's impact on AD using harmonized EHRs</title>
+  <subtitle>Collaborative project between UTHealth Houston, Mayo Clinics and University of Florida.</subtitle>
+  <updated>2024-04-10T15:38:34-05:00</updated>
   <author>
     <name>Xiaoqian Jiang</name>
-    <uri>http://localhost:4000/dicb_uttu/</uri>
+    <uri>http://localhost:4000/home/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/dicb_uttu/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/home/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/dicb_uttu/"/>
+    href="http://localhost:4000/home/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 Xiaoqian Jiang </rights>
-  <icon>/dicb_uttu/assets/img/favicons/favicon.ico</icon>
-  <logo>/dicb_uttu/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/home/assets/img/favicons/favicon.ico</icon>
+  <logo>/home/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Joint Workshop</title>
-    <link href="http://localhost:4000/dicb_uttu/posts/Janurary-Workshop/" rel="alternate" type="text/html" title="Joint Workshop" />
-    <published>2023-01-05T06:55:00-06:00</published>
+    <title>FHIR to OMOP Proof of Concept Test</title>
+    <link href="http://localhost:4000/home/posts/fhir-omop-proof-of-concept-test/" rel="alternate" type="text/html" title="FHIR to OMOP Proof of Concept Test" />
+    <published>2024-04-10T07:55:00-05:00</published>
   
-    <updated>2024-01-08T14:36:51-06:00</updated>
+    <updated>2024-04-10T07:55:00-05:00</updated>
   
-    <id>http://localhost:4000/dicb_uttu/posts/Janurary-Workshop/</id>
-    <content src="http://localhost:4000/dicb_uttu/posts/Janurary-Workshop/" />
+    <id>http://localhost:4000/home/posts/fhir-omop-proof-of-concept-test/</id>
+    <content src="http://localhost:4000/home/posts/fhir-omop-proof-of-concept-test/" />
     <author>
-      <name>Xiaoqian Jiang</name>
+      <name>xj</name>
     </author>
 
   
     
-    <category term="Meeting" />
+    <category term="Presentation" />
     
-    <category term="Collaboration" />
+    <category term="Test" />
     
   
 
@@ -48,17 +48,164 @@
 
 
 
-      Title: “Data Governance in Healthcare: Ethical and Computational Perspectives”
+      FHIR to OMOP Proof of Concept Test
 
-  Theme: “Exploring the intersection of data governance, AI/ML, and health equity”
+We performed a proof of concept test on FHIR to OMOP format conversion. Details are shown in the slides.
 
 
-Day 1 (1/17)
 
-9:00 - 9:15: Opening Remarks - Dean Prakash and Dean Zhang
-9:15 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang
-9:30 - 10:00: Introduction to Data Governance in Healthcare - Dr. Xiao Chang, Dr. Chitra Nayak
-10:00 - ...
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>data profiling</title>
+    <link href="http://localhost:4000/home/posts/data-profiling/" rel="alternate" type="text/html" title="data profiling" />
+    <published>2024-03-23T01:00:00-05:00</published>
+  
+    <updated>2024-03-23T01:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/home/posts/data-profiling/</id>
+    <content src="http://localhost:4000/home/posts/data-profiling/" />
+    <author>
+      <name>xj</name>
+    </author>
+
+  
+    
+    <category term="profiling" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      In the realm of data science, profiling datasets is a critical step towards understanding and ensuring the quality of data. Here are some notable tools and libraries that can aid in this process:
+
+
+  
+    DataProfiler by Capital One: This is a comprehensive Python library tailored for data analysis, monitoring, and the detection of sensitive information within datasets. It’s an open-source tool...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Mapping of multiple chronic conditions to MONDO</title>
+    <link href="http://localhost:4000/home/posts/ontology-mapping-mondo/" rel="alternate" type="text/html" title="Mapping of multiple chronic conditions to MONDO" />
+    <published>2024-03-22T01:00:00-05:00</published>
+  
+    <updated>2024-03-24T15:23:44-05:00</updated>
+  
+    <id>http://localhost:4000/home/posts/ontology-mapping-mondo/</id>
+    <content src="http://localhost:4000/home/posts/ontology-mapping-mondo/" />
+    <author>
+      <name>xj</name>
+    </author>
+
+  
+    
+    <category term="ontology" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The Monarch Disease Ontology (MONDO) aims to harmonize disease definitions across the biomedical landscape. By integrating various disease resources into a single, coherent ontology, MONDO provides a unified framework for disease representation. This is particularly beneficial for research into multiple chronic conditions (MCC), where consistent and accurate disease mapping is crucial. MONDO’s ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Mapping of multiple chronic conditions to SNOMED</title>
+    <link href="http://localhost:4000/home/posts/ontology-mapping/" rel="alternate" type="text/html" title="Mapping of multiple chronic conditions to SNOMED" />
+    <published>2024-03-16T01:00:00-05:00</published>
+  
+    <updated>2024-03-16T23:55:51-05:00</updated>
+  
+    <id>http://localhost:4000/home/posts/ontology-mapping/</id>
+    <content src="http://localhost:4000/home/posts/ontology-mapping/" />
+    <author>
+      <name>xj</name>
+    </author>
+
+  
+    
+    <category term="ontology" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      To facilitate a better understanding and visualization of the MCC codes along with their SNOMED mappings, we have embedded the Excel file directly into this webpage (UTHealth internal document). This allows you to view the information directly without the need to download the file. Please find the embedded Excel file below:
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>OMOP data quality assessment</title>
+    <link href="http://localhost:4000/home/posts/omop-quality/" rel="alternate" type="text/html" title="OMOP data quality assessment" />
+    <published>2024-03-13T23:00:00-05:00</published>
+  
+    <updated>2024-03-16T23:45:18-05:00</updated>
+  
+    <id>http://localhost:4000/home/posts/omop-quality/</id>
+    <content src="http://localhost:4000/home/posts/omop-quality/" />
+    <author>
+      <name>xj</name>
+    </author>
+
+  
+    
+    <category term="tools" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    DataQualityDashboard - A package designed to run data quality checks against an OMOP CDM instance to improve data quality standards in observational data science. Visit Repository.
+  
+  
+    Data-Quality-Analysis - Helps in conducting data quality assessments on clinical datasets modeled using the OMOP common data model. Visit Repository.
+  
+  
+    DQUEEN_OMOP_CDM_Version - Aims to expo...
     </summary>
   
 

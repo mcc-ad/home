@@ -1,11 +1,11 @@
 [
   
   {
-    "title": "Joint Workshop",
-    "url": "/dicb_uttu/posts/Janurary-Workshop/",
-    "categories": "Meeting, Collaboration",
-    "tags": "workshop",
-    "date": "2023-01-05 06:55:00 -0600",
+    "title": "FHIR to OMOP Proof of Concept Test",
+    "url": "/home/posts/fhir-omop-proof-of-concept-test/",
+    "categories": "Presentation, Test",
+    "tags": "FHIR, OMOP",
+    "date": "2024-04-10 07:55:00 -0500",
     
 
 
@@ -13,8 +13,110 @@
 
 
     
-    "snippet": "Title: “Data Governance in Healthcare: Ethical and Computational Perspectives”  Theme: “Exploring the intersection of data governance, AI/ML, and health equity”Day 1 (1/17)9:00 - 9:15: Opening Rema...",
-    "content": "Title: “Data Governance in Healthcare: Ethical and Computational Perspectives”  Theme: “Exploring the intersection of data governance, AI/ML, and health equity”Day 1 (1/17)9:00 - 9:15: Opening Remarks - Dean Prakash and Dean Zhang9:15 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang9:30 - 10:00: Introduction to Data Governance in Healthcare - Dr. Xiao Chang, Dr. Chitra Nayak10:00 - 10:30: Joint DICB Session with Dr. Kakadiaris for Synergy - Dr. Kakadiaris will present his plan on data linkage, harmonization, and curation.10:30 - 11:00: AIM-AHEAD Session - PI JK and Dr. Toufeeq Syed will discuss the AIM-AHEAD contribution and need assessment.11:00 - 11:30: Presentation: Computational Biology and Genomics in AI/ML Research - Dr. Balasubramanyam Karanam, Dr. Xiaoqian Jiang11:30 - 11:45: Discussion: Computational Biology and Genomics in AI/ML Research - Moderated by Dr. Osman Yardimci11:45 - 12:00: Q&amp;A Session: Computational Biology and Genomics in AI/ML Research - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty12:00 - 1:00: Lunch Break1:00 - 1:30: Session Part 1: Introduction to Bioethics in Data Governance - Theme: “Understanding the Ethical Implications of Data Governance” - Dr. Stephen Sodeke1:30 - 1:45: Q&amp;A Session: Introduction to Bioethics in Data Governance - Theme: “Discussing the Ethical Implications of Data Governance” - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty1:45 - 2:00: Session Part 2: Case Studies in Bioethics and Data Governance - Theme: “Exploring Real-world Scenarios of Ethical Dilemmas in Data Governance” - Dr. Vivian Carter2:00 - 2:15: Q&amp;A Session: Case Studies in Bioethics and Data Governance - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty2:00 - 3:00: Case Studies in Data Governance and Health Equity - Dr. Osman Yardimci3:00 - 4:00: Panel Discussion: Ethical Considerations in AI/ML for Healthcare - Dr. Honghe Wang, Dr. Arif Harmanci, invited external experts, and anyone else interested. Questions to inspire discussion:  What are the main ethical challenges in AI/ML for healthcare?  How can we ensure fairness and equity in AI/ML applications in healthcare?  What are some best practices for addressing ethical considerations in AI/ML for healthcare?4:00 - 5:00: Meeting with MSBMI Faculty to Discuss Joint Interests6:30: Networking Dinner at Aga’s Restaurant and Catering (20 people)  Address: 11842 Wilcrest Dr, Houston, TX 77031  Phone: (832) 786-8000  Note: The dinner is booked at 6:45 under Dr. Xiaoqian Jiang. Aga’s is the #1 Indian restaurant in Houston. Please be aware that the table will only hold for 10 minutes.Day 2 (1/18)9:00 - 10:00: Discussion on 4+1 Joint Program with Dean Fenton - Dean Prakash  This session will focus on the potential collaboration between our institution and the 4+1 Joint Program. Dean Fenton, Dr. Honghe Wang, and Dr. Chitra Nayak will lead the discussion, exploring the benefits and challenges of such a partnership.  Note: This time is not determined and might need to be changed.10:00 - 11:00: AI Fairness with Industry and Leaders - Dr. Xiaoqian Jiang  In this session, Dr. Xiaoqian Jiang will lead a discussion on AI fairness. The discussion will involve industry leaders and will focus on the importance of fairness in AI, the current state of fairness in AI, and what steps can be taken to improve fairness in AI.  Note: This time is not determined and might need to be changed.11:00 - 12:00: Roundtable: Data Access and Computation/ML Capability - Dr. Osman Yardimci, Dr. Sodeke, Dr. Deepa Bedi, Dr. Jim Zheng  Discussion on data accessibility and sharing policy - Dr. Deepa Bedi  Presentation on computation/ML capability - Dr. Jim Zheng  This session will also include discussions on the role of RCMI and potential implications of a second major genomics grant. Dr. Deepa Bedi, who is leading data creation and analysis at TU, will provide insights.  Note: This time is not determined and might need to be changed."
+    "snippet": "FHIR to OMOP Proof of Concept TestWe performed a proof of concept test on FHIR to OMOP format conversion. Details are shown in the slides.",
+    "content": "FHIR to OMOP Proof of Concept TestWe performed a proof of concept test on FHIR to OMOP format conversion. Details are shown in the slides."
+  },
+  
+  {
+    "title": "data profiling",
+    "url": "/home/posts/data-profiling/",
+    "categories": "profiling",
+    "tags": "quality, data",
+    "date": "2024-03-23 01:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "In the realm of data science, profiling datasets is a critical step towards understanding and ensuring the quality of data. Here are some notable tools and libraries that can aid in this process:  ...",
+    "content": "In the realm of data science, profiling datasets is a critical step towards understanding and ensuring the quality of data. Here are some notable tools and libraries that can aid in this process:      DataProfiler by Capital One: This is a comprehensive Python library tailored for data analysis, monitoring, and the detection of sensitive information within datasets. It’s an open-source tool that simplifies the process of data profiling for developers and data scientists alike. For more details, visit their GitHub repository here.        ydata-profiling by ydataai: Aimed at providing a straightforward and comprehensive analysis of datasets, this package excels in handling various types of data, including time-series and textual data. It is designed to offer insights into the dataset’s structure, missing values, and potential correlations between variables. Check out their work on GitHub here.        StructuredDataProfiling by Clearbox-AI: This Python library is engineered to automate the profiling of structured datasets. It not only profiles the data but also aids in the creation of data tests, ensuring the reliability and accuracy of the data being analyzed. This tool is particularly useful for data scientists looking to streamline their data validation processes. Their GitHub repository can be found here.        Hunting by factly: Built on top of the well-known Pandas Profiling and Polars, Hunting is a REST API that offers data profiling capabilities. It provides a convenient way to profile data through API calls, making it accessible for applications that require remote data analysis and profiling. For more information, visit their GitHub page here.  Each of these tools offers unique features and capabilities, making them valuable resources for anyone looking to enhance their data profiling efforts."
+  },
+  
+  {
+    "title": "Mapping of multiple chronic conditions to MONDO",
+    "url": "/home/posts/ontology-mapping-mondo/",
+    "categories": "ontology",
+    "tags": "SNOMED, mapping, OMOP",
+    "date": "2024-03-22 01:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "The Monarch Disease Ontology (MONDO) aims to harmonize disease definitions across the biomedical landscape. By integrating various disease resources into a single, coherent ontology, MONDO provides...",
+    "content": "The Monarch Disease Ontology (MONDO) aims to harmonize disease definitions across the biomedical landscape. By integrating various disease resources into a single, coherent ontology, MONDO provides a unified framework for disease representation. This is particularly beneficial for research into multiple chronic conditions (MCC), where consistent and accurate disease mapping is crucial. MONDO’s approach facilitates better data sharing, analysis, and understanding of disease relationships, making it an invaluable resource for researchers and clinicians working on ontology mapping and the study of chronic conditions."
+  },
+  
+  {
+    "title": "Mapping of multiple chronic conditions to SNOMED",
+    "url": "/home/posts/ontology-mapping/",
+    "categories": "ontology",
+    "tags": "SNOMED, mapping, OMOP",
+    "date": "2024-03-16 01:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "To facilitate a better understanding and visualization of the MCC codes along with their SNOMED mappings, we have embedded the Excel file directly into this webpage (UTHealth internal document). Th...",
+    "content": "To facilitate a better understanding and visualization of the MCC codes along with their SNOMED mappings, we have embedded the Excel file directly into this webpage (UTHealth internal document). This allows you to view the information directly without the need to download the file. Please find the embedded Excel file below:"
+  },
+  
+  {
+    "title": "OMOP data quality assessment",
+    "url": "/home/posts/omop-quality/",
+    "categories": "tools",
+    "tags": "OMOP, quality",
+    "date": "2024-03-13 23:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "      DataQualityDashboard - A package designed to run data quality checks against an OMOP CDM instance to improve data quality standards in observational data science. Visit Repository.        Dat...",
+    "content": "      DataQualityDashboard - A package designed to run data quality checks against an OMOP CDM instance to improve data quality standards in observational data science. Visit Repository.        Data-Quality-Analysis - Helps in conducting data quality assessments on clinical datasets modeled using the OMOP common data model. Visit Repository.        DQUEEN_OMOP_CDM_Version - Aims to expose and evaluate OMOP-CDM and metadata for data quality assessment. Visit Repository.  "
+  },
+  
+  {
+    "title": "Large Language Model based Named Entity Recognition",
+    "url": "/home/posts/llm-ner/",
+    "categories": "tools",
+    "tags": "ontology, llm, NER",
+    "date": "2024-02-16 22:00:00 -0600",
+    
+
+
+
+
+
+    
+    "snippet": "      OntoGPT - A project leveraging GPT models for ontology-based named entity recognition (NER) to enhance data extraction and structuring from clinical narratives. Visit Repository.        Ontol...",
+    "content": "      OntoGPT - A project leveraging GPT models for ontology-based named entity recognition (NER) to enhance data extraction and structuring from clinical narratives. Visit Repository.        Ontology-NER - Provides tools and techniques for applying ontology-based approaches to NER, facilitating improved entity extraction from diverse datasets. Visit Repository.        NER Datasets and Models - A collection of resources for training and evaluating named entity recognition models, including datasets and pre-trained models. Visit Repository.        Entity Extraction Resources - Offers a comprehensive list of tools, datasets, and scholarly articles focused on entity extraction using LLMs and other methods. Visit Repository.        Entity-Related Papers - A curated list of research papers and resources dedicated to improving NER, entity linking, and related natural language processing tasks. Visit Repository.  "
+  },
+  
+  {
+    "title": "Userful Resources for FHIR and OMOP",
+    "url": "/home/posts/fhir-omop/",
+    "categories": "Collaboration, GitHub",
+    "tags": "FHIR, OMOP",
+    "date": "2023-01-30 06:55:00 -0600",
+    
+
+
+
+
+
+    
+    "snippet": "      OMOP on FHIR - A FHIR Server implementation based on the OMOP Common Data Model, providing a FHIR clinical API. Visit Repository.        FHIROntopOMOP - Exposes OMOP data as a queryable Knowl...",
+    "content": "      OMOP on FHIR - A FHIR Server implementation based on the OMOP Common Data Model, providing a FHIR clinical API. Visit Repository.        FHIROntopOMOP - Exposes OMOP data as a queryable Knowledge Graph compliant with HL7 FHIR standards. Visit Repository.        fhir-omop-ig - An implementation guide supporting data conversion between FHIR and OMOP. Visit Repository.        fhir-to-omop - Project mapping FHIR data to OMOP data. Visit Repository.        FhirToCdm - Facilitates the conversion from FHIR HL7 to OMOP CDM. Visit Repository.  "
   }
   
 ]

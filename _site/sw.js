@@ -1,6 +1,6 @@
-self.importScripts('/dicb_uttu/assets/js/data/swcache.js');
+self.importScripts('/home/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-1704751690';
+const cacheName = 'chirpy-1712781514';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {

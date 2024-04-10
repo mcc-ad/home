@@ -1,54 +1,51 @@
 const resource = [
   /* --- CSS --- */
-  '/dicb_uttu/assets/css/jekyll-theme-chirpy.css',
+  '/home/assets/css/jekyll-theme-chirpy.css',
 
   /* --- PWA --- */
-  '/dicb_uttu/app.js',
-  '/dicb_uttu/sw.js',
+  '/home/app.js',
+  '/home/sw.js',
 
   /* --- HTML --- */
-  '/dicb_uttu/index.html',
-  '/dicb_uttu/404.html',
+  '/home/index.html',
+  '/home/404.html',
 
   
-    '/dicb_uttu/team/',
+    '/home/team/',
   
-    '/dicb_uttu/repo/',
+    '/home/repo/',
   
-    '/dicb_uttu/publications/',
+    '/home/publications/',
   
-    '/dicb_uttu/about/',
+    '/home/about/',
   
-    '/dicb_uttu/archives/',
+    '/home/archives/',
+  
+    '/home/categories/',
+  
+    '/home/tags/',
   
 
   /* --- Favicons & compressed JS --- */
   
   
-    '/dicb_uttu/assets/img/favicons/android-chrome-192x192.png',
-    '/dicb_uttu/assets/img/favicons/android-chrome-512x512.png',
-    '/dicb_uttu/assets/img/favicons/ants/android-chrome-192x192.png',
-    '/dicb_uttu/assets/img/favicons/ants/android-chrome-512x512.png',
-    '/dicb_uttu/assets/img/favicons/ants/apple-touch-icon.png',
-    '/dicb_uttu/assets/img/favicons/ants/favicon-16x16.png',
-    '/dicb_uttu/assets/img/favicons/ants/favicon-32x32.png',
-    '/dicb_uttu/assets/img/favicons/ants/favicon.ico',
-    '/dicb_uttu/assets/img/favicons/ants/mstile-150x150.png',
-    '/dicb_uttu/assets/img/favicons/apple-touch-icon.png',
-    '/dicb_uttu/assets/img/favicons/avatar.png',
-    '/dicb_uttu/assets/img/favicons/avatar2.png',
-    '/dicb_uttu/assets/img/favicons/avatar3.png',
-    '/dicb_uttu/assets/img/favicons/favicon-16x16.png',
-    '/dicb_uttu/assets/img/favicons/favicon-32x32.png',
-    '/dicb_uttu/assets/img/favicons/favicon.ico',
-    '/dicb_uttu/assets/img/favicons/mstile-150x150.png',
-    '/dicb_uttu/assets/img/favicons/wildcard_icon.jpg',
-    '/dicb_uttu/assets/js/dist/categories.min.js',
-    '/dicb_uttu/assets/js/dist/commons.min.js',
-    '/dicb_uttu/assets/js/dist/home.min.js',
-    '/dicb_uttu/assets/js/dist/misc.min.js',
-    '/dicb_uttu/assets/js/dist/page.min.js',
-    '/dicb_uttu/assets/js/dist/post.min.js'
+    '/home/assets/img/favicons/android-chrome-192x192.png',
+    '/home/assets/img/favicons/android-chrome-512x512.png',
+    '/home/assets/img/favicons/apple-touch-icon.png',
+    '/home/assets/img/favicons/avatar.png',
+    '/home/assets/img/favicons/avatar2.png',
+    '/home/assets/img/favicons/avatar3.png',
+    '/home/assets/img/favicons/favicon-16x16.png',
+    '/home/assets/img/favicons/favicon-32x32.png',
+    '/home/assets/img/favicons/favicon.ico',
+    '/home/assets/img/favicons/mstile-150x150.png',
+    '/home/assets/img/favicons/wildcard_icon.jpg',
+    '/home/assets/js/dist/categories.min.js',
+    '/home/assets/js/dist/commons.min.js',
+    '/home/assets/js/dist/home.min.js',
+    '/home/assets/js/dist/misc.min.js',
+    '/home/assets/js/dist/page.min.js',
+    '/home/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */
@@ -58,7 +55,7 @@ const allowedDomains = [
   'localhost:4000',
 
   
-    'aim-ahead-dicb.github.io',
+    'mcc-ad.github.io',
   
 
   'fonts.gstatic.com',
