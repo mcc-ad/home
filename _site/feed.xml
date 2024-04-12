@@ -4,7 +4,7 @@
   <id>http://localhost:4000/home/</id>
   <title>An end-to-end informatics framework to study MCC's impact on AD using harmonized EHRs</title>
   <subtitle>Collaborative project between UTHealth Houston, Mayo Clinics and University of Florida.</subtitle>
-  <updated>2024-04-12T14:18:39-05:00</updated>
+  <updated>2024-04-12T14:49:24-05:00</updated>
   <author>
     <name>Xiaoqian Jiang</name>
     <uri>http://localhost:4000/home/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/home/posts/fhir-omop-proof-of-concept-test/" rel="alternate" type="text/html" title="FHIR to OMOP Proof of Concept Test" />
     <published>2024-04-10T07:55:00-05:00</published>
   
-    <updated>2024-04-10T07:55:00-05:00</updated>
+    <updated>2024-04-12T14:25:54-05:00</updated>
   
     <id>http://localhost:4000/home/posts/fhir-omop-proof-of-concept-test/</id>
     <content src="http://localhost:4000/home/posts/fhir-omop-proof-of-concept-test/" />
@@ -52,8 +52,7 @@
 
 We performed a proof of concept test on FHIR to OMOP format conversion. Details are shown in the slides.
 
-
-
+This is an embedded Microsoft Office , powered by Office.
 
     </summary>
   
