@@ -27,7 +27,7 @@
   image: /assets/img/headshot/jiangbian.jpeg
   email: jiang.bian@ufl.edu
 - name: Dr. Kai Zhang
-  role: co-I
+  role: Co-I
   university: UTHealth
   image: /assets/img/headshot/kaizhang.jpeg
   email: kai.zhang.1@uth.tmc.edu
@@ -36,8 +36,8 @@
   university: UTHealth
   image: /assets/img/headshot/kaifdauwa.jpeg
   email: kaif.dauwa@uth.tmc.edu
-- name: Dr. Jingna Feng
-  role: co-I
+- name: Jingna Feng
+  role: Associate Data Science Analyst
   university: Mayo Clinics
   image: /assets/img/headshot/jingnafeng.jpeg
   email: feng.jingna@mayo.edu
@@ -47,27 +47,42 @@
   image: /assets/img/headshot/angiewatson.jpg
   email: angelia.h.watson@uth.tmc.edu
 - name: Dr. Paul Schulz
-  role: co-I
+  role: Co-I
   university: UTHealth
   image: /assets/img/headshot/paulschulz.jpeg
   email: paul.e.schulz@uth.tmc.edu
 - name: Dr. Yejin Kim
-  role: co-I
+  role: Co-I
   university: UTHealth
   image: /assets/img/headshot/yejinkim.jpeg
   email: yejin.kim@uth.tmc.edu
+- name: Dr. Yonghui Wu
+  role: Co-I
+  university: University of Florida
+  image: /assets/img/headshot/yonghuiwu.jpeg
+  email: yonghui.wu@ufl.edu
+- name: Dr. Adam Woods
+  role: Co-I
+  university: University of Florida
+  image: /assets/img/headshot/adamwoods.jpeg
+  email: ajwoods@phhp.ufl.edu
+- name: Dr. Samuel Wu
+  role: Co-I
+  university: University of Florida
+  image: /assets/img/headshot/samuelwu.jpeg
+  email: sw45@ufl.edu
 - name: Dr. Luyao Chen
   role: Scientific Programmer
   university: UTHealth
   image: /assets/img/headshot/luyaochen.jpg
   email: TBN
 - name: Dr. Fang Li
-  role: co-I
+  role: Co-I
   university: Mayo Clinics
   image: /assets/img/headshot/fangli.jpeg
   email: li.fang@mayo.edu
 - name: Dr. Lishan Yu
-  role: co-I
+  role: Co-I
   university: UTHealth
   image: /assets/img/headshot/lishanyu.jpeg
   email: lishan.yu@uth.tmc.edu
